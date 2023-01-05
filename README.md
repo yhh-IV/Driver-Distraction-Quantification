@@ -5,3 +5,4 @@ We develop a supervised contrastive learning framework to recognize the distract
 ![illustration](https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/illustration.jpg)
 
 Here are some **visual examples**:
+![normal-driving](https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/normal-driving.gif)

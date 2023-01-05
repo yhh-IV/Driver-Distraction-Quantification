@@ -6,6 +6,12 @@ We develop a supervised contrastive learning framework to recognize the distract
 
 Here are some **visual examples**:
 
-* normal driving:
+* normal driving:               * making hair:
 
-<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/normal-driving.gif" width="300" alt="">
+<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/normal-driving.gif" width="300" alt=""> 
+
+<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/making-hair.gif" width="300" alt=""> 
+
+<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/phoning.gif" width="300" alt=""> 
+
+<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/texting.gif" width="300" alt="">

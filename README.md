@@ -6,12 +6,19 @@ We develop a supervised contrastive learning framework to recognize the distract
 
 Here are some **visual examples**:
 
-* normal driving:               * making hair:
+&emsp; &emsp; &emsp; &emsp; &emsp; normal driving   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; making hair 
 
-<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/normal-driving.gif" width="300" alt=""> 
+<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/normal-driving.gif" width="300" alt=""> <img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/making-hair.gif" width="300" alt="">
 
-<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/making-hair.gif" width="300" alt=""> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; phoning   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; texting 
 
-<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/phoning.gif" width="300" alt=""> 
+<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/phoning.gif" width="300" alt=""> <img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/texting.gif" width="300" alt="">
 
-<img src="https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/texting.gif" width="300" alt="">
+
+
+
+
+
+
+
+

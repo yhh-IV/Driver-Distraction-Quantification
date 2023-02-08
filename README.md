@@ -1,6 +1,6 @@
 # Driver-Distraction-Quantification
 
-We develop a supervised contrastive learning framework to recognize the distracted driving, in which the driver distraction behaviors can be quantified using their distances from normal ones in the latent space.
+We develop a supervised contrastive learning framework to recognize the distracted driving, in which the driver distraction behaviors can be quantified using their distances from normal ones in the latent space. (The dataset can be downloaded from the [SAM-DD website](yanghh.io/sam-dd))
 
 ![illustration](https://github.com/yhh-IV/Driver-Distraction-Quantification/blob/main/images/illustration.jpg)
 
